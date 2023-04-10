@@ -39,7 +39,7 @@
     border-color: black;
 }
 #rounded{
-    border-radius: 25px;
+    border-radius: 15px;
 }
 #mybrand{
   font-size: x-large;
@@ -51,3 +51,27 @@
   color: black;
   text-decoration: none;
 }
+#Mymargin{
+    margin: unset 0px;
+}
+.Mybutton{
+    background-color: black;
+    border-color: black;
+    color: #ffff;
+}
+#mindenOff{
+    border:  none;
+    border-radius: 0px;
+    box-shadow: none;
+}
+@media (max-width: 992px) {
+    .hidden-sm {
+      display: none;
+    }
+  }
+@media (min-width: 992px) {
+    .hidden-lg {
+      display: none;
+    }
+  }
+  
