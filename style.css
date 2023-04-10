@@ -1,0 +1,80 @@
+#navborder{
+    border-radius: 8px;
+    border: 2px solid black;
+    text-align: justify;
+    
+}
+.kozep{
+    text-align: justify;
+    text-align: center;
+}
+#Active{
+    color: rgba(104, 104, 104, 0.74);
+    font-weight: bold;
+    text-decoration: none;
+    font-size: x-large;
+}
+#Porsche{
+    color: azure;
+}
+.text.justify{
+    text-align: justify;
+}
+.midle{
+    text-align: center;
+}
+#Myh1{
+    font-size: 2cm
+}
+.carsdiv{
+    color: white;
+}
+#base{
+    background-color: black;
+}
+.bg-black{
+    background-color: black;
+}
+.Mycard{
+    border-color: black;
+}
+#rounded{
+    border-radius: 25px;
+}
+#mybrand{
+  font-size: x-large;
+  color: black;
+  text-decoration: none;
+}
+#mybrandsm{
+  font-size: large;
+  color: black;
+  text-decoration: none;
+}
+/* @media (max-width: 768px) {
+    .navbar-nav {
+      flex-direction: column;
+      margin-bottom: 15px;
+    }
+    
+    .navbar-nav .nav-item {
+      width: 100%;
+    }
+    
+    .navbar-nav .nav-link {
+      padding: .5rem 1rem;
+      text-align: center;
+    }
+    
+    .navbar-collapse {
+      display: none !important;
+    }
+    
+    .navbar-collapse.show {
+      display: flex !important;
+    }
+    
+    .navbar-toggler {
+      display: block;
+    }
+  } */
